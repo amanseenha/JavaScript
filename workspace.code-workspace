@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../Java"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../LeetCode-Questions"
+		},
+		{
+			"path": "../Recursion"
+		}
+	],
+	"settings": {}
+}
